@@ -1,0 +1,8 @@
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\Viajes\bin\Debug\netstandard1.4\Viajes.deps.json
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\Viajes\bin\Debug\netstandard1.4\Viajes.dll
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\Viajes\bin\Debug\netstandard1.4\Viajes.pdb
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\Viajes\obj\Debug\netstandard1.4\Viajes.vbprojAssemblyReference.cache
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\Viajes\obj\Debug\netstandard1.4\Viajes.vbproj.CoreCompileInputs.cache
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\Viajes\obj\Debug\netstandard1.4\Viajes.AssemblyInfo.vb
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\Viajes\obj\Debug\netstandard1.4\Viajes.dll
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\Viajes\obj\Debug\netstandard1.4\Viajes.pdb

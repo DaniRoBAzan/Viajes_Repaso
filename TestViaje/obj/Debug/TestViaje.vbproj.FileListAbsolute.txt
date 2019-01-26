@@ -1,0 +1,14 @@
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\TestViaje\bin\Debug\TestViaje.exe.config
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\TestViaje\bin\Debug\TestViaje.exe
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\TestViaje\bin\Debug\TestViaje.pdb
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\TestViaje\bin\Debug\TestViaje.xml
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\TestViaje\bin\Debug\Viajes.dll
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\TestViaje\bin\Debug\Viajes.pdb
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\TestViaje\obj\Debug\TestViaje.vbprojAssemblyReference.cache
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\TestViaje\obj\Debug\TestViaje.Resources.resources
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\TestViaje\obj\Debug\TestViaje.vbproj.GenerateResource.cache
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\TestViaje\obj\Debug\TestViaje.vbproj.CoreCompileInputs.cache
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\TestViaje\obj\Debug\TestViaje.vbproj.CopyComplete
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\TestViaje\obj\Debug\TestViaje.exe
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\TestViaje\obj\Debug\TestViaje.xml
+C:\Users\Romina\Desktop\FABIO19\Proyectos\Viajes_Repaso\TestViaje\obj\Debug\TestViaje.pdb
